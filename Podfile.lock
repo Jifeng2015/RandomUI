@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.0)
+  - HandyJSON (5.0.0)
+  - JCore (2.1.2)
+  - JPush (3.2.4):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - SwiftyJSON (5.0.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - JPush
+  - SwiftyJSON
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HandyJSON
+    - JCore
+    - JPush
+    - SwiftyJSON
+    - YYModel
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  JCore: 1a426120b510cdebfd67b82bfb9483238ee09413
+  JPush: 29466e5f30dbd703f640d70540e411e829cac1fa
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: d424c9191b07edb43fe2ed0422f40c8f45546951
+
+COCOAPODS: 1.8.0.beta.2
